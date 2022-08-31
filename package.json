@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Grosu Razvan Andrei",
+	"author": "Razvan Andrei Grosu",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
